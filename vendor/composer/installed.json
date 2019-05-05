@@ -3234,5 +3234,49 @@
             "check",
             "validate"
         ]
+    },
+    {
+        "name": "wilon/php-number2chinese",
+        "version": "1.0.4",
+        "version_normalized": "1.0.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wilon/php-number2chinese.git",
+            "reference": "4635aa03a1b206c102825c7457c26b015c5a07c6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/wilon/php-number2chinese/zipball/4635aa03a1b206c102825c7457c26b015c5a07c6",
+            "reference": "4635aa03a1b206c102825c7457c26b015c5a07c6",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4"
+        },
+        "time": "2019-04-08T06:25:34+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "number2chinese.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Weilong Wang",
+                "email": "wilonx@163.com"
+            }
+        ],
+        "description": "PHP数字转为汉字描述、人民币大写方法。",
+        "homepage": "https://wilon.github.io",
+        "keywords": [
+            "Chinese",
+            "number",
+            "php"
+        ]
     }
 ]

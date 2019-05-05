@@ -12,4 +12,5 @@ return array(
     '8cff32064859f4559445b89279f3199c' => $vendorDir . '/php-http/message/src/filters.php',
     '6124b4c8570aa390c21fafd04a26c69f' => $vendorDir . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
     '92c8763cd6170fce6fcfe7e26b4e8c10' => $vendorDir . '/symfony/phpunit-bridge/bootstrap.php',
+    '3a0c306ac27eb071aa8550e82e838601' => $vendorDir . '/wilon/php-number2chinese/number2chinese.php',
 );

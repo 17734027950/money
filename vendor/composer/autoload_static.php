@@ -13,6 +13,7 @@ class ComposerStaticInit2876538605c8c6605c26ac40892e3b6f
         '8cff32064859f4559445b89279f3199c' => __DIR__ . '/..' . '/php-http/message/src/filters.php',
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         '92c8763cd6170fce6fcfe7e26b4e8c10' => __DIR__ . '/..' . '/symfony/phpunit-bridge/bootstrap.php',
+        '3a0c306ac27eb071aa8550e82e838601' => __DIR__ . '/..' . '/wilon/php-number2chinese/number2chinese.php',
     );
 
     public static $prefixLengthsPsr4 = array (
