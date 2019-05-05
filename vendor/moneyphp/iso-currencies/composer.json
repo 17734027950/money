@@ -1,0 +1,27 @@
+{
+    "name": "moneyphp/iso-currencies",
+    "description": "Provides up-to-date list of ISO 4217 currencies as provide by the official ISO Maintenance Agency",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Márk Sági-Kazár",
+            "email": "mark.sagi-kazar@gmail.com"
+        },
+        {
+            "name": "Frederik Bosch",
+            "email": "f.bosch@genkgo.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "symfony/yaml": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "MoneyPHP\\IsoCurrencies\\": ["src"]
+        }
+    },
+    "scripts": {
+        "fetch-update": "php bin/fetch-update.php"
+    }
+}
